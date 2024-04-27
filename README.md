@@ -1,10 +1,13 @@
 # KELOMPOK 7 APLIKASI ANTRIAN - PEMOGRAMAN WEB 2
-ANGGOTA KELOMPOK :
-1. NOUFAL ARIQ FADHURRAHMAN (312210526)
-2. FAISAL ARYA YUDANTO (312210555)
-3. RAHMAT HIDAYAT (312210565)
-4. ZULAEHA (312210575)
-   
+
+## ANGGOTA KELOMPOK
+| NO.|    NIM     |              NAMA                     |
+|----|------------|---------------------------------------|
+| 1. | 312210565  |   RAHMAT HIDAYAT                      |
+| 2. | 312210575  |   ZULAEHA                             |   
+| 3. | 312210555  |   FAISAL ARYA YUDANTO                 |
+| 4. | 312210526  |   NOUFAL ARIQ FADHURRAHMAN            |
+
 KELAS : TI.22.A.5
 
 MATA KULIAH : PEMOGRAMAN WEB 2
