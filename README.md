@@ -14,7 +14,7 @@ MATA KULIAH : PEMOGRAMAN WEB 2
 
 DOSEN PENGAMPU : AGUNG NUGROHO,S.KOM., M.KOM
 
-## Aplikasi Antrian Berbasis Web
+## Aplikasi Manajemen Antrian Berbasis Web
 Aplikasi Antrian merupakan sistem manajemen yang digunakan untuk mengelola antrian pengunjung pada suatu perusahaan atau instansi. Aplikasi antrian dapat digunakan sebagai sarana untuk mencapai kinerja efektif dan efisien bagi perusahaan atau instansi dalam melayani pengunjung.
 
 Aplikasi Antrian ini dibangun menggunakan bahasa pemrograman PHP Versi 8 dan database MySQL/MariaDB. Untuk berkomunikasi dengan database menggunakan MySQLi Extension dengan antarmuka Procedural. Desain tampilan aplikasi ini menggunakan framework CSS Bootstrap 5.
