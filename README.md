@@ -24,7 +24,9 @@ Aplikasi Antrian ini terdiri dari 2 interface, yaitu Nomor Antrian, dan Panggila
 
 
 > **Nomor Antrian**
+
 Halaman Nomor Antrian digunakan nasabah untuk mengambil nomor antrian,memilih loketdan mencetak nomer antrian
 
 > **Panggilan Antrian**
+
 Halaman Panggilan Antrian digunakan petugas loket untuk memanggil antrian pengunjung. Halaman ini menampilkan informasi jumlah antrian, nomor antrian yang sedang dipanggil, nomor antrian selanjutnya yang akan dipanggil, sisa antrian yang belum dipanggil. Petugas loket dapat menekan tombol panggilan antrian pada layar untuk memanggil antrian dengan menggunakan suara yang bisa dihubungkan dengan alat pengeras suara. Untuk suara panggilan antrian pada aplikasi ini menggunakan library ResponsiveVoice.JS.
