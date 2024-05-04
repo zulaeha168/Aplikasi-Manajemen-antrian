@@ -25,7 +25,7 @@ Aplikasi Antrian ini terdiri dari 2 interface, yaitu Nomor Antrian, dan Panggila
 
 > **Nomor Antrian**
 
-Halaman Nomor Antrian digunakan nasabah untuk mengambil nomor antrian,memilih loketdan mencetak nomer antrian
+Halaman Nomor Antrian digunakan nasabah untuk mengambil nomor antrian,memilih loket, memilih pelayanan dan mencetak nomer antrian
 
 > **Panggilan Antrian**
 
