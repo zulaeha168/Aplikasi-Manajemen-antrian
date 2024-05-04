@@ -15,7 +15,7 @@ MATA KULIAH : PEMOGRAMAN WEB 2
 DOSEN PENGAMPU : AGUNG NUGROHO,S.KOM., M.KOM
 
 ## Aplikasi Manajemen Antrian Berbasis Web
-Aplikasi manajemen antrian yang dirancang bertujuan untuk mengoptimalkan proses antrian dalam suatu sistem layanan, dengan fokus pada nasabah dan petugas. Sistem ini memfasilitasi nasabah untuk mengambil nomor antrian, memilih loket, memilih jenis layanan yang diinginkan, dan menunggu dengan nyaman. Di sisi lain, sistem memberikan alat kepada petugas untuk memanggil nomor antrian secara efisien menggunakan suara
+Aplikasi manajemen antrian yang dirancang bertujuan untuk mengoptimalkan proses antrian dalam suatu sistem layanan, dengan fokus pada nasabah dan petugas. Sistem ini memfasilitasi nasabah untuk mengambil nomor antrian, memilih loket, memilih jenis layanan yang diinginkan, cetak nomer antrian dan menunggu dengan nyaman. Di sisi lain, sistem memberikan alat kepada petugas untuk memanggil nomor antrian secara efisien menggunakan suara
 
 Aplikasi Antrian ini dibangun menggunakan bahasa pemrograman PHP Versi 8 dan database MySQL/MariaDB. Untuk berkomunikasi dengan database menggunakan MySQLi Extension dengan antarmuka Procedural. Desain tampilan aplikasi ini menggunakan framework CSS Bootstrap 5.
 
