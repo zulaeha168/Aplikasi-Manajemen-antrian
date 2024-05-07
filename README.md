@@ -116,30 +116,33 @@ Tabel 2 Kebutuhan Perangkat Keras Pengguna
 
 **Tampilan Dahboard** 
 
-![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/acdc5c67-2aeb-4a43-b56e-24aa90fe0d00)
+![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/eeb6f325-9d0a-4323-b9bf-5042e67c1e07)
+
 
 **Tampilan nomer antrian** 
 
-![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/9ab24ea6-a223-4361-88ee-3b6ca7bb0afe)
+![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/c5c8aee0-e634-47e1-83b9-8eba86b61c64)
+
 
 **Tampilan catak nomer antrian**
 
-![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/9f36c318-07b5-4a60-9182-d7f5c3693547)
+![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/b03cac7d-b738-4a1c-a2d4-532ff935b53a)
+
 
 **Tampilan panggilan nomer antrian**
 
-![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/6124a8f3-6ed2-475c-a50c-732c3e0cd285)
+![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/c4beb8b7-d27e-4817-9d38-3fea934e0d7f)
 
 
 **F. Hasil Demo** 
 
 •	Link Youtube
 
-https://youtu.be/ajoDh69RpNw?si=_si8r_mYuxU60ys3
+**https://youtu.be/ajoDh69RpNw?si=_si8r_mYuxU60ys3**
 
 •	Lampirkan link github kolaborasi tim. 
 
-https://github.com/zulaeha168/Aplikasi-Manajemen-antrian
+**https://github.com/zulaeha168/Aplikasi-Manajemen-antrian**
 
 ## Sekian Terimakasih
 
