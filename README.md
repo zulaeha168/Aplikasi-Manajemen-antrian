@@ -14,8 +14,8 @@ MATA KULIAH : PEMOGRAMAN WEB 2
 
 DOSEN PENGAMPU : AGUNG NUGROHO,S.KOM., M.KOM
 
-
-. Gambaran Umum Sistem 
+**Laporan terdiri dari:**
+Gambaran Umum Sistem 
 1. Kebutuhan Sistem 
    1. Functional (Use Case) 
    1. Non-Functional 
