@@ -15,18 +15,18 @@ MATA KULIAH : PEMOGRAMAN WEB 2
 DOSEN PENGAMPU : AGUNG NUGROHO,S.KOM., M.KOM
 
 **Laporan terdiri dari:**
-Gambaran Umum Sistem 
-1. Kebutuhan Sistem 
+A. Gambaran Umum Sistem 
+B. Kebutuhan Sistem 
    1. Functional (Use Case) 
    1. Non-Functional 
-1. Rancangan Sistem 
-1. Rancangan Basis Data (Data Model/ERD) 
-1. Prototype (Desain Mockup/Figma) 
-1. Hasil Akhir (Demo program) 
+C. Rancangan Sistem 
+D. Rancangan Basis Data (Data Model/ERD) 
+E. Prototype (Desain Mockup/Figma) 
+F. Hasil Akhir (Demo program) 
 
 Lampirkan link github kolaborasi tim.
 
-**1. Gambaran Umum Sistem** 
+**A. Gambaran Umum Sistem** 
 
 ## Aplikasi Manajemen Antrian Berbasis Web
 Aplikasi manajemen antrian yang dirancang bertujuan untuk mengoptimalkan proses antrian dalam suatu sistem layanan, dengan fokus pada nasabah dan petugas. Sistem ini memfasilitasi nasabah untuk mengambil nomor antrian, memilih loket, memilih jenis layanan yang diinginkan, cetak nomer antrian dan menunggu dengan nyaman. Di sisi lain, sistem memberikan alat kepada petugas untuk memanggil nomor antrian secara efisien menggunakan suara
@@ -44,7 +44,8 @@ Halaman Nomor Antrian digunakan nasabah untuk mengambil nomor antrian,memilih lo
 > **Panggilan Antrian**
 
 Halaman Panggilan Antrian digunakan petugas loket untuk memanggil antrian nasabah. Halaman ini menampilkan informasi jumlah antrian, nomor antrian yang sedang dipanggil, nomor antrian selanjutnya yang akan dipanggil, sisa antrian yang belum dipanggil. Petugas loket dapat menekan tombol panggilan antrian pada layar untuk memanggil antrian dengan menggunakan suara yang bisa dihubungkan dengan alat pengeras suara. Untuk suara panggilan antrian pada aplikasi ini menggunakan library ResponsiveVoice.JS.
-**2. Kebutuhan Sistem** 
+
+**B. Kebutuhan Sistem** 
 
 1. **functional sistem (use case)**
    
@@ -82,7 +83,7 @@ Tabel 2 Kebutuhan Perangkat Keras Pengguna
 |4 |Monitor |
 
 
-**3. Rancangan Sistem** 
+**C. Rancangan Sistem** 
 - Activity Diagram
 
   ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/7377a98a-843d-4065-9304-c0ddd540ad51)
@@ -99,11 +100,11 @@ Tabel 2 Kebutuhan Perangkat Keras Pengguna
 
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/30ab7729-671d-45e3-ab16-a102b37671b6)
 
-**4. Rancangan Basis Data (ERD)** 
+**D. Rancangan Basis Data (ERD)** 
 
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/7e845b7b-9de8-4699-886f-5dcc4a91feae)
 
-**5. Prototype (Desain Mockup/Figma Data Loket)** 
+**E. Prototype (Desain Mockup/Figma Data Loket)** 
 
 **Tampilan Dahboard** 
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/acdc5c67-2aeb-4a43-b56e-24aa90fe0d00)
@@ -118,7 +119,7 @@ Tabel 2 Kebutuhan Perangkat Keras Pengguna
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/6124a8f3-6ed2-475c-a50c-732c3e0cd285)
 
 
-**6. Hasil Demo** 
+**F. Hasil Demo** 
 
 •	Link Youtube
 
