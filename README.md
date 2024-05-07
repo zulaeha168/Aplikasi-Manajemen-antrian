@@ -115,15 +115,19 @@ Tabel 2 Kebutuhan Perangkat Keras Pengguna
 **E. Prototype (Desain Mockup/Figma Data Loket)** 
 
 **Tampilan Dahboard** 
+
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/acdc5c67-2aeb-4a43-b56e-24aa90fe0d00)
 
 **Tampilan nomer antrian** 
+
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/9ab24ea6-a223-4361-88ee-3b6ca7bb0afe)
 
 **Tampilan catak nomer antrian**
+
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/9f36c318-07b5-4a60-9182-d7f5c3693547)
 
 **Tampilan panggilan nomer antrian**
+
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/6124a8f3-6ed2-475c-a50c-732c3e0cd285)
 
 
