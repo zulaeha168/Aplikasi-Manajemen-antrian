@@ -20,9 +20,9 @@ A. Gambaran Umum Sistem
 
 B. Kebutuhan Sistem 
 
-   a. Functional (Use Case)
+      a. Functional (Use Case)
       
-   b. Non-Functional 
+      b. Non-Functional 
    
 C. Rancangan Sistem 
 
