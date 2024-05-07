@@ -15,13 +15,21 @@ MATA KULIAH : PEMOGRAMAN WEB 2
 DOSEN PENGAMPU : AGUNG NUGROHO,S.KOM., M.KOM
 
 **Laporan terdiri dari:**
+
 A. Gambaran Umum Sistem 
+
 B. Kebutuhan Sistem 
-   1. Functional (Use Case) 
-   1. Non-Functional 
+
+   a. Functional (Use Case)
+      
+   b. Non-Functional 
+   
 C. Rancangan Sistem 
+
 D. Rancangan Basis Data (Data Model/ERD) 
-E. Prototype (Desain Mockup/Figma) 
+
+E. Prototype (Desain Mockup/Figma)
+
 F. Hasil Akhir (Demo program) 
 
 Lampirkan link github kolaborasi tim.
