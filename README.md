@@ -42,7 +42,7 @@ Aplikasi manajemen antrian yang dirancang bertujuan untuk mengoptimalkan proses 
 
 Aplikasi Antrian ini dibangun menggunakan bahasa pemrograman PHP Versi 8 dan database MySQL/MariaDB. Untuk berkomunikasi dengan database menggunakan MySQLi Extension dengan antarmuka Procedural. Desain tampilan aplikasi ini menggunakan framework CSS Bootstrap 5.
 
-## Fitur Aplikasi
+**Fitur Aplikasi**
 Aplikasi Antrian ini terdiri dari 2 interface, yaitu Nomor Antrian, dan Panggilan Antrian.
 
 
@@ -97,13 +97,9 @@ Tabel 2 Kebutuhan Perangkat Keras Pengguna
 
   ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/7377a98a-843d-4065-9304-c0ddd540ad51)
 
-
-
-
 - Sequence Diagram
 
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/dc86f7c4-9191-46f1-bb6b-9ae3c2d11c97)
-
 
 - Devloyment Diagram 
 
@@ -119,21 +115,17 @@ Tabel 2 Kebutuhan Perangkat Keras Pengguna
 
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/eeb6f325-9d0a-4323-b9bf-5042e67c1e07)
 
-
 **Tampilan nomer antrian** 
 
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/c5c8aee0-e634-47e1-83b9-8eba86b61c64)
-
 
 **Tampilan catak nomer antrian**
 
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/b03cac7d-b738-4a1c-a2d4-532ff935b53a)
 
-
 **Tampilan panggilan nomer antrian**
 
 ![image](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/c4beb8b7-d27e-4817-9d38-3fea934e0d7f)
-
 
 **F. Hasil Demo** 
 
