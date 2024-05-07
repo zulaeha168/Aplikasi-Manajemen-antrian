@@ -81,18 +81,6 @@ Tabel 2 Kebutuhan Perangkat Keras Pengguna
 |3 |Laptop |
 |4 |Monitor |
 
-•	Analisa Pengguna Sistem
-
-Tabel 3 Analisa pengguna sistem
-
-No.	Pengguna	Akses Sistem
-1	Nasabah	-	Dapat memilih data pelayanan.
--	Dapat memilih data loket
--	Dapat	mendaftarkan	nasabah	secara manual
--	Dapat mencetak nomer antrian
-2	Petugas	-	Dapat melihat informasi antrian nasabah
--	Dapat memanggil nomer antrian nasabah
-
 
 **3. Rancangan Sistem** 
 - Activity Diagram
