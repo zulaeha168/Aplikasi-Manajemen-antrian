@@ -55,11 +55,11 @@ Halaman Panggilan Antrian digunakan petugas loket untuk memanggil antrian nasaba
 
 **B. Kebutuhan Sistem** 
 
-1. **functional sistem (use case)**
+a. **functional sistem (use case)**
    
 ![fix2 drawio](https://github.com/zulaeha168/Aplikasi-Manajemen-antrian/assets/130324650/efc2b9f4-bf8c-47c5-add1-616cc52e7d14)
 
-3. **Non functional** 
+b. **Non functional** 
 
 Analisis kebutuhan non fungsional dibagi menjadi dua, yaitu kebutuhan perangkat lunak dan kebutuhan perangkat keras. Perangkat keras bertujuan untuk memudahkan proses perancangan dan implementasi dalam pembangunan sistem ini.
 
